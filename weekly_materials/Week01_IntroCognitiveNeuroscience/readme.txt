@@ -1,0 +1,1 @@
+For the week 01 lecture PDF, see the bCourses `Files` page.
