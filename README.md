@@ -1,0 +1,1 @@
+This gh-pages should *not* be used. Instead, we will use the `data8/connector/cognitive-neuroscience` repository for the website. Don't modify these files.
