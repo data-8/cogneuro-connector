@@ -1,4 +1,5 @@
-# Compiled source #
+# -la
+Compiled source #
 ###################
 *.com
 *.class
@@ -108,6 +109,9 @@ target/
 
 # IPython Notebook
 .ipynb_checkpoints
+
+# figures
+figures
 
 # pyenv
 .python-version
