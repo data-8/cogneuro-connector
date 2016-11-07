@@ -1,9 +1,0 @@
-HRF reading: 
-
-MIT: http://mindhive.mit.edu/node/72
-Dustin: https://theclevermachine.wordpress.com/tag/hemodynamic-response-function/
-Kendrick ? : 
-
-Boynton 1996 - single gamma HRF
-
-Handwerker, D'Esposito, Bandettini et al (principally about variabilty across people)
