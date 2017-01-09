@@ -98,26 +98,33 @@
     * Aligning functional images to a subject's brain surface
   * Coding concepts
     * Logical indexing with multidimensional arrays
+    * Using pycortex to produce 3D viewers and flatmaps
   * Datascience concepts
     * None
   * Lecture materials
     * None
 * 11/07  - Event-related averages of fMRI data and fMRI impulse response function
   * Neuroscience concepts
-    * None
+    * Understanding typical experimental structure
+    * Understanding fMRI hemodynamic responses
+    * Computing fMRI impulse responses
+    * Modeling hemodynamic responses and convolution
   * Coding concepts
-    * None
+    * Implementing convolution
+    * Creating complex plotting functions
   * Datascience concepts
-    * None
+    * Estimating impulse responses
+    * Time series convolution
   * Lecture materials
     * None
 * 11/14 - Multiple Regression
   * Neuroscience concepts
-    * None
+    * How to model and estimate voxel responses to different conditions
   * Coding concepts
-    * None
+    * Matrix multiplication and inversion
   * Datascience concepts
-    * None
+    * Matrix multiplication and inversion
+    * Multivariate linear regression
   * Lecture materials
     * None
 * 11/21 - Hypothesis Testing
@@ -125,7 +132,7 @@
     * Formulating and testing hypotheses about brain representation
     * Performing brain activity contrasts
   * Coding concepts
-    * None
+    * Plotting results on the brain using pycortex
   * Datascience concepts
     * Hypothesis testing
     * T-tests
@@ -135,11 +142,17 @@
     * None
 * 11/28 - Encoding Models for Complex Stimuli I
   * Neuroscience concepts
-    * None
+    * Building a predictive model of brain activity
+    * Using feature spaces to represent the properties of complex stimulus 
+    * Modeling brain responses as a function of stimulus features
   * Coding concepts
     * None
   * Datascience concepts
-    * None
+    * Overfitting
+    * Predicting held out data
+    * Testing and training set
+    * Testing model performance
+    * Correlation of predicted and real data
   * Lecture materials
     * None
 * 12/05  - RRR Week    
