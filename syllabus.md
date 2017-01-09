@@ -82,18 +82,22 @@
     * None
 * 10/24 - Introduction to functional magnetic resonance imaging (fMRI): loading and plotting raw data in python
   * Neuroscience concepts
-    * None
+    * Principles of fMRI
+    * FMRI data format and meaning
+    * How to manipulate and plot fMRI data
   * Coding concepts
-    * None
+    * Plotting 3D images
+    * Setting matplotlib plotting parameters 
   * Datascience concepts
-    * None
+    * Normalizing data
   * Lecture materials
     * None
 * 10/31 - Masking and Visualizing fMRI data in 3D: Introduction to pycortex
   * Neuroscience concepts
-    * None
+    * Masking fMRI images
+    * Aligning functional images to a subject's brain surface
   * Coding concepts
-    * None
+    * Logical indexing with multidimensional arrays
   * Datascience concepts
     * None
   * Lecture materials
@@ -118,11 +122,15 @@
     * None
 * 11/21 - Hypothesis Testing
   * Neuroscience concepts
-    * None
+    * Formulating and testing hypotheses about brain representation
+    * Performing brain activity contrasts
   * Coding concepts
     * None
   * Datascience concepts
-    * None
+    * Hypothesis testing
+    * T-tests
+    * P-values
+    * Multiple comparison correction
   * Lecture materials
     * None
 * 11/28 - Encoding Models for Complex Stimuli I
