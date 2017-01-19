@@ -46,29 +46,44 @@
     * None
 * 09/26 - Introduction to event related potentials (ERPs)
   * Neuroscience concepts
-    * None
+    * Collecting experimental data
+    * Event-Related Potentials
+    * Baselining on a trial-by-trial basis
+    * Global Field Potential
   * Coding concepts
-    * None
+    * The `Epochs` class in MNE
+    * Creating a mask of times (for baselining)
   * Datascience concepts
-    * None
+    * Bootstrapping and variability
+    * Statistical differences between two conditions
   * Lecture materials
     * None
 * 10/03 - Filtering and Time-Frequency Representation
   * Neuroscience concepts
-    * None
+    * What does it mean to "filter" a signal?
+    * Introduction to signal processing and fourier-domain
+    * Extracting the amplitude of a frequency band
+    * Intro to morlet wavelets
+    * Creating a TFR
   * Coding concepts
-    * None
+    * Nothing new
   * Datascience concepts
-    * None
+    * Nothing new
   * Lecture materials
     * None
 * 10/10 - Correlation, Regression, and Modeling
   * Neuroscience concepts
-    * None
+    * Simulating a signal
+    * Correlations between neural signals
   * Coding concepts
-    * None
+    * Scikit-learn API
   * Datascience concepts
-    * None
+    * Correlation
+    * Regression
+    * Relationship b/w them
+    * Multiple regression
+    * Correlation matrices
+    * Relating regression to ERPs
   * Lecture materials
     * None
 * 10/17 - Midterm 
