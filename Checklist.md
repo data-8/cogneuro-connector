@@ -3,9 +3,20 @@ recommended to test the lectures on the hub before pushing it to the hub (see be
 
 
 ### Weekly checklist
-- [] Push final materials to data-8/cogneuro-connector (see below  "General workflow on the data-8 jupyter hub" Section)
+#### Before the class
+- [] Push final materials (lecture/homework/quiz) to data-8/cogneuro-connector (see below  "General workflow on the data-8 jupyter hub" Section)
 - [] Create interactive links and update the web-page
+- [] Prepare homework assignment on bcourses (schedule to be posted at Tuesdays, 3pm)
+- [] Prepare google doc for QAs and put link to the web-page.
 - [] 
+
+#### During the class
+- [] Attendance on bcourses
+- [] 
+
+#### After the class
+- [] Homework assignment sent?
+- []
 
 ### Updating the web-page
 
