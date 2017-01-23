@@ -1,4 +1,4 @@
-# Cognitive Neuroscience Connector
+# Cognitive Neuroscience Connector Course Materials
 
 This repository contains the weekly materials for the Data Science for Cognitive Neuroscience class (L&S 88) taught in 
 University of California Berkeley in [Fall 2016](http://data8.org/connector/cognitive-neuroscience/) and 
