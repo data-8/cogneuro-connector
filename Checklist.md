@@ -7,16 +7,22 @@ recommended to test the lectures on the hub before pushing it to the hub (see be
 - [] Push final materials (lecture/homework/quiz) to data-8/cogneuro-connector (see below  "General workflow on the data-8 jupyter hub" Section)
 - [] Create interactive links and update the web-page
 - [] Prepare homework assignment on bcourses (schedule to be posted at Tuesdays, 3pm)
-- [] Prepare google doc for QAs and put link to the web-page.
+- [] Prepare in-class quiz using google forms
+- [] Prepare google doc for notes. Naming convention and example: [Cogneuro_Pad_Lecture01](https://docs.google.com/document/d/1-SSZJY55R_ktdg8kXUAR8UevYdHiJFmrfkqr1QM1LiQ/edit)
 - [] 
 
 #### During the class
-- [] Attendance on bcourses
-- [] 
+- [] Attendance on bcourses: Main instructor
+- [] Answer questions on google doc: Co-instructors
+- [] Fill the instructor feedback document: /Spring2017/Notes_and_Feedback_to_Lectures
+- []
 
 #### After the class
-- [] Homework assignment sent?
-- []
+- [] Homework assignment released on bcourses?
+- [] Grade homeworks form last week.
+- [] Cleanup and rename Cogneuro_Pad from the class. Naming convention and example: [Cogneuro_Pad_Lecture01_postclass](https://docs.google.com/document/d/1-SSZJY55R_ktdg8kXUAR8UevYdHiJFmrfkqr1QM1LiQ/edit)
+- [] Create a PDF of the Cogneuro_Pad and post on bcourses
+- [] 
 
 ### Updating the web-page
 
