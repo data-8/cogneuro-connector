@@ -9,7 +9,6 @@ recommended to test the lectures on the hub before pushing it to the hub (see be
 - [] Prepare homework assignment on bcourses (schedule to be posted at Tuesdays, 3pm)
 - [] Prepare in-class quiz using google forms
 - [] Prepare google doc for notes. Naming convention and example: [Cogneuro_Pad_Lecture01](https://docs.google.com/document/d/1-SSZJY55R_ktdg8kXUAR8UevYdHiJFmrfkqr1QM1LiQ/edit)
-- [] 
 
 #### During the class
 - [] Attendance on bcourses: Main instructor
@@ -23,7 +22,7 @@ recommended to test the lectures on the hub before pushing it to the hub (see be
 - [] Cleanup and rename Cogneuro_Pad from the class. Naming convention and example: [Cogneuro_Pad_Lecture01_postclass](https://docs.google.com/document/d/1-SSZJY55R_ktdg8kXUAR8UevYdHiJFmrfkqr1QM1LiQ/edit)
 - [] Create a PDF of the Cogneuro_Pad and post on bcourses
 - [] Make sure that class surveys are in the corresponding material folder. You can "stop accepting responses" to freeze the form. It's good to do it in class right after, but if you forget please do it now.
-- []
+- [] Use Verify Drive button on datahub to transfer jupyter notebook from class that includes the breakout session results into the notebook.
 
 ### Updating the web-page
 
