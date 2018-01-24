@@ -1,0 +1,15 @@
+{
+  "name": "Lab 2: Intro to fMRI",
+  "endpoint": "cal/psych88/sp18/hw1",
+  "src": [
+    "hw1.ipynb"
+  ],
+  "tests": {
+      "tests/q*.py": "ok_test"
+  },
+  "protocols": [
+      "file_contents",
+      "grading",
+      "backup"
+  ]
+}
