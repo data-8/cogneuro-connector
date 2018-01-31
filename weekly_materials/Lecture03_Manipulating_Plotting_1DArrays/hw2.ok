@@ -1,6 +1,6 @@
 {
-  "name": "Lab 3: Basic array manipulation and vizualization",
-  "endpoint": "cal/data8cogneuroconnector/fa17/HW2",
+  "name": "Hw2",
+  "endpoint": "cal/psych88/sp18/hw2",
   "src": [
     "hw2.ipynb"
   ],
