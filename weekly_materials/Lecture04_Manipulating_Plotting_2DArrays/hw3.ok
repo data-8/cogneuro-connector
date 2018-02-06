@@ -1,0 +1,15 @@
+{
+  "name": "Lab 3: Manipulating 2-D arrays",
+  "endpoint": "cal/psych88/sp18/hw3",
+  "src": [
+    "hw3.ipynb"
+  ],
+  "tests": {
+      "tests/q*.py": "ok_test"
+  },
+  "protocols": [
+      "file_contents",
+      "grading",
+      "backup"
+  ]
+}
