@@ -1,0 +1,15 @@
+{
+  "name": "Lab 1",
+  "endpoint": "cal/psych88/sp18/lab1",
+  "src": [
+    "lab1.ipynb"
+  ],
+  "tests": {
+      "tests/q*.py": "ok_test"
+  },
+  "protocols": [
+      "file_contents",
+      "grading",
+      "backup"
+  ]
+}
