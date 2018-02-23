@@ -24,8 +24,8 @@ test = {
             'cases': [
                 {
                     'code': r"""
-                    >>> # The name 'fig_cw_remove_lowest_one' should be present
-                    >>> 'fig_cw_remove_lowest_one' in vars()
+                    >>> # The name 'fig_cw_removed_lowest_one' should be present
+                    >>> 'fig_cw_removed_lowest_one' in vars()
                     True
                     """,
                     'hidden': False,
