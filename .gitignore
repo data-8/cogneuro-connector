@@ -1,4 +1,9 @@
 .ipynb_checkpoints
-__pycache__
-.ok_messages
-.ok_storage.db
+.ok*
+tests/
+__*
+*.nii*
+*.nii.gz*
+*.mat*
+*.rms
+*.par
